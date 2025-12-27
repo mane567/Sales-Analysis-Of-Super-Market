@@ -4,6 +4,9 @@
 This project is an interactive **Excel Dashboard** designed to analyze and visualize data effectively using charts, pivot tables, and key performance indicators (KPIs).  
 It helps in converting raw data into meaningful insights for better decision-making.
 
+## 🖼 Dashboard Preview
+![Sales-Analysis-Of-Super-Market](https://github.com/mane567/Amazon-Product-Sales-Analysis/blob/main/dashboard.png)
+
 ## 🎯 Objectives
 - Clean and preprocess raw data
 - Perform data analysis using Excel tools
