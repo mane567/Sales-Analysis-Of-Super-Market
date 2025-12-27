@@ -5,7 +5,7 @@ This project is an interactive **Excel Dashboard** designed to analyze and visua
 It helps in converting raw data into meaningful insights for better decision-making.
 
 ## 🖼 Dashboard Preview
-![Sales-Analysis-Of-Super-Market](https://github.com/mane567/Amazon-Product-Sales-Analysis/blob/main/dashboard.png)
+![Sales-Analysis-Of-Super-Market]([https://github.com/mane567/Amazon-Product-Sales-Analysis/blob/main/dashboard.png](https://github.com/mane567/Sales-Analysis-Of-Super-Market/blob/main/Excel%20Snapshot.png))
 
 ## 🎯 Objectives
 - Clean and preprocess raw data
